@@ -12,7 +12,7 @@ import ec.edu.ups.clases.RedSocial;
 import ec.edu.ups.clases.Seccion;
 
 /**
- *
+ * alguien
  * @author Estudiante
  */
 public class Prueba {
